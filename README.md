@@ -17,3 +17,7 @@ plt.ylabel('salaries')
 plt.title(' MASIH PVT LTD')
 plt.legend()
 plt.show()  #it is udes to display bar graph
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
